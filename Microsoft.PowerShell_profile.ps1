@@ -330,4 +330,4 @@ function which ($command) {
 
 Import-Module posh-git
 Import-Module -Name Terminal-Icons
-oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\powerlevel10k_rainbow.omp.json"  | Invoke-Expression
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\easy-term.omp.json"  | Invoke-Expression
