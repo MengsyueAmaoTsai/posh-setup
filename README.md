@@ -15,7 +15,7 @@ Install-Module -Name Terminal-Icons -Repository PSGallery -Force
 Install-Module PSReadLine -Force
 Install-Module posh-git -Scope CurrentUser -Force
 
-# Must restart before using commands below.
+# Must restart PowerShell before using commands below.
 oh-my-posh font install [FontName]
 
 ```
