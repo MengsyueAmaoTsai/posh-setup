@@ -1,13 +1,13 @@
-# My personal powershell setup.
+# My personal powerShell setup.
 
-## Powershell Installation
-```
+## PowerShell Installation
+```powershell
 Winget Install Microsoft.PowerShell
 Winget Install JanDeDobbeleer.OhMyPosh
 ```
 
 
-```
+```powershell
 Set-ExecutionPolicy RemoteSigned -Force
 Set-PSRepository -Name PSGallery -InstallationPolicy Trusted
 
