@@ -3,14 +3,13 @@
 ## Powershell Installation
 ```
 Winget Install Microsoft.PowerShell
+Winget Install JanDeDobbeleer.OhMyPosh
 ```
 
 
 ```
 Set-ExecutionPolicy RemoteSigned -Force
 Set-PSRepository -Name PSGallery -InstallationPolicy Trusted
-
-Winget Install JanDeDobbeleer.OhMyPosh
 
 Install-Module -Name Terminal-Icons -Repository PSGallery -Force
 Install-Module PSReadLine -Force
