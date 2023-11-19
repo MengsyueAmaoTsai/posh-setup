@@ -14,7 +14,7 @@
         "action": "splitPane",
         "split": "right"
       },
-      "keys": "ctrl+shift+right"
+      "keys": ""
     },
     {
       "command": "paste",
@@ -59,7 +59,7 @@
         "action": "splitPane",
         "split": "left"
       },
-      "keys": "ctrl+shift+left"
+      "keys": ""
     }
   ],
   "copyFormatting": "none",
