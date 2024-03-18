@@ -1,5 +1,5 @@
 # Oh-My-Posh theme folder
 
 ```powershell
-%LOCALAPPDATA%Programsoh-my-poshthemes
+%LOCALAPPDATA%\Programs\oh-my-posh\themes
 ```
